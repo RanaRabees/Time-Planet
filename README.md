@@ -1,5 +1,6 @@
-# Art-of-Motion
-Art Of Motion
+# Time-Planet
+
+Time Planet
 
 [Live Preview](https://ranarabees.github.io/Time-Planet)
 
